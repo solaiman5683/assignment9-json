@@ -1,0 +1,81 @@
+[{
+    "gender": "male",
+    "name": {
+        "title": "Monsieur",
+        "first": "Karl",
+        "last": "Muller"
+    },
+    "location": {
+        "street": {
+            "number": 3465,
+            "name": "Avenue Joliot Curie"
+        },
+        "city": "Yens",
+        "state": "Thurgau",
+        "country": "Switzerland",
+        "postcode": 6796,
+        "coordinates": {
+            "latitude": "-54.1162",
+            "longitude": "-52.1743"
+        },
+        "timezone": {
+            "offset": "+3:00",
+            "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+    },
+    "email": "karl.muller@example.com",
+    "login": {
+        "uuid": "8b851fc5-e52c-49f5-b65f-b6d8a61db05e",
+        "username": "greenwolf772",
+        "password": "gotyoass",
+        "salt": "3uiWM9u0",
+        "md5": "745ebf8bb11bdee54317803480fceef5",
+        "sha1": "d51bcd885f89bba2d57b755dbfb34592ae675145",
+        "sha256": "64e6b2429cc9c89794823b22262e410a8c57cb10b66f5e59adac411c913af9ed"
+    },
+    "dob": {
+        "date": "1966-03-04T22:56:36.630Z",
+        "age": 55
+    },
+    "registered": {
+        "date": "2016-06-23T14:52:52.527Z",
+        "age": 5
+    },
+    "phone": "077 186 03 88",
+    "cell": "076 990 76 87",
+    "id": {
+        "name": "AVS",
+        "value": "756.7684.2969.52"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    },
+    "nat": "CH",
+    "sallary": 376928
+}, {
+    "gender": "male",
+    "name": {
+        "title": "Mr",
+        "first": "Wyatt",
+        "last": "Lopez"
+    },
+    "location": {
+        "street": {
+            "number": 2876,
+            "name": "Samaritan Dr"
+        },
+        "city": "Orange",
+        "state": "Tasmania",
+        "country": "Australia",
+        "postcode": 4782,
+        "coordinates": {
+            "latitude": "65.2689",
+            "longitude": "-103.7659"
+        },
+        "timezone": {
+            "offset": "-10:00",
+            "description": "Hawaii"
+        }
+    }]

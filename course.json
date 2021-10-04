@@ -46,7 +46,7 @@
   {
     "_id": "615a83b4403b2b80d83fd39f",
     "course_name": "30-60-90 Business",
-    "img":"",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_72150359_original-580x400.jpg",
     "isActive": false,
     "fees": "$222.20",
     "age": 8,

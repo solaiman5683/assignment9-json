@@ -2,6 +2,7 @@
   {
     "_id": "615a83b4419c38c5a96461d7",
     "course_name": "English For Children",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_63889211_original-580x400.jpg",
     "isActive": true,
     "fees": "$292.95",
     "age": 8,
@@ -12,6 +13,7 @@
   {
     "_id": "615a83b430ef523e9622fdaa",
     "course_name": "Intensive Language Course",
+    "img": "https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_46326837_original-580x400.jpg",
     "isActive": true,
     "fees": "$306.41",
     "age": 5,
@@ -22,6 +24,7 @@
   {
     "_id": "615a83b4ed9e4a5871141ab1",
     "course_name": "Language Trainings",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_58582087_original-580x400.jpg",
     "isActive": false,
     "fees": "$140.79",
     "age": 25,
@@ -32,6 +35,7 @@
   {
     "_id": "615a83b4a2f22fa7050f74e2",
     "course_name": "Lingvo Diving.",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_85241600_original-580x387.jpg",
     "isActive": false,
     "fees": "$443.97",
     "age": 17,
@@ -42,6 +46,7 @@
   {
     "_id": "615a83b4403b2b80d83fd39f",
     "course_name": "30-60-90 Business",
+    "img":"",
     "isActive": false,
     "fees": "$222.20",
     "age": 8,
@@ -52,6 +57,7 @@
   {
     "_id": "615a83b47177a02778878f19",
     "course_name": "Mastering Grammar",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_73936385_original1-580x400.jpg",
     "isActive": true,
     "fees": "$484.39",
     "age": 15,
@@ -62,6 +68,8 @@
   {
     "_id": "615a83b4da4f027b279302b1",
     "course_name": "Mini-МВA",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_49215681_original1-580x400.jpg",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_49215681_original1-580x400.jpg",
     "isActive": false,
     "fees": "$362.64",
     "age": 20,
@@ -72,6 +80,7 @@
   {
     "_id": "615a83b468aba71eb85550a0",
     "course_name": "Language Studies",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_85241664_original1-580x400.jpg",
     "isActive": true,
     "fees": "$366.75",
     "age": 9,
@@ -82,6 +91,7 @@
   {
     "_id": "615a83b4d342644ac7f687cb",
     "course_name": "Learn Second Language",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_88893684_original-580x387.jpg",
     "isActive": true,
     "fees": "$113.68",
     "age": 19,
@@ -92,6 +102,7 @@
   {
     "_id": "615a83b437faf11c3cdacd24",
     "course_name": "Basic Language Skills",
+    "img":"https://raw.githubusercontent.com/solaiman5683/assignment9-json/main/Depositphotos_66455527_original-580x400.jpg",
     "isActive": true,
     "fees": "$226.21",
     "age": 24,

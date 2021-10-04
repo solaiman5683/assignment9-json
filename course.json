@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "615a83b4419c38c5a96461d7",
+    "course_name": "English For Children",
+    "isActive": true,
+    "fees": "$292.95",
+    "age": 8,
+    "enroled": 82,
+    "duration": 3,
+    "description": "Sit consectetur consectetur qui tempor incididunt laborum adipisicing tempor in officia consectetur fugiat. Dolore id enim eu est enim velit cupidatat aute duis velit. Cillum cillum veniam aliqua consectetur culpa ipsum consectetur esse occaecat et nisi. Eu sit non enim voluptate cillum adipisicing cupidatat sit cupidatat incididunt. Do eu voluptate enim pariatur minim labore aliquip eu ex sint. Velit qui pariatur ullamco magna exercitation dolor consequat proident nulla. Labore anim occaecat in cillum sint eu enim ut nisi anim id culpa.\r\n"
+  },
+  {
+    "_id": "615a83b430ef523e9622fdaa",
+    "course_name": "Intensive Language Course",
+    "isActive": true,
+    "fees": "$306.41",
+    "age": 5,
+    "enroled": 31,
+    "duration": 12,
+    "description": "Eiusmod dolor anim consectetur id minim proident adipisicing dolor nulla sunt duis occaecat adipisicing fugiat. Sint et labore labore exercitation pariatur aute sint ex voluptate ex reprehenderit eu qui fugiat. Pariatur ad quis duis Lorem do fugiat mollit exercitation. Quis pariatur mollit et aute nostrud amet.\r\n"
+  },
+  {
+    "_id": "615a83b4ed9e4a5871141ab1",
+    "course_name": "Language Trainings",
+    "isActive": false,
+    "fees": "$140.79",
+    "age": 25,
+    "enroled": 295,
+    "duration": 10,
+    "description": "Reprehenderit ex nisi occaecat duis amet est velit dolore mollit ex cupidatat consequat in. Occaecat cupidatat ullamco incididunt nostrud culpa pariatur ut dolor minim aliqua officia consectetur. Lorem veniam qui officia elit ipsum ut quis ex id excepteur excepteur pariatur. Id laboris proident ea et aliquip duis elit velit magna cupidatat. Amet dolor incididunt aute ea sunt enim occaecat magna reprehenderit consequat voluptate ut deserunt Lorem. Aliqua proident eu amet sint eu esse est Lorem.\r\n"
+  },
+  {
+    "_id": "615a83b4a2f22fa7050f74e2",
+    "course_name": "Lingvo Diving.",
+    "isActive": false,
+    "fees": "$443.97",
+    "age": 17,
+    "enroled": 0,
+    "duration": 4,
+    "description": "Aliqua officia veniam adipisicing elit anim quis incididunt aliquip non eu Lorem elit. Quis esse ut nulla pariatur. Excepteur laboris irure sunt duis sint deserunt incididunt. Tempor cupidatat magna pariatur irure.\r\n"
+  },
+  {
+    "_id": "615a83b4403b2b80d83fd39f",
+    "course_name": "30-60-90 Business",
+    "isActive": false,
+    "fees": "$222.20",
+    "age": 8,
+    "enroled": 43,
+    "duration": 11,
+    "description": "Deserunt Lorem et sit consectetur mollit excepteur sunt sint enim. Qui laboris deserunt sunt aliquip. Aliquip adipisicing est cillum anim exercitation officia elit incididunt fugiat est duis. Aliqua duis nisi dolor est nostrud fugiat laborum sint laborum dolore ea do laborum mollit.\r\n"
+  },
+  {
+    "_id": "615a83b47177a02778878f19",
+    "course_name": "Mastering Grammar",
+    "isActive": true,
+    "fees": "$484.39",
+    "age": 15,
+    "enroled": 458,
+    "duration": 11,
+    "description": "Fugiat incididunt officia laborum et eiusmod. Voluptate labore exercitation sunt irure aliqua cillum ullamco pariatur cillum mollit laboris ex est. Nostrud fugiat deserunt dolor irure. Ad minim deserunt reprehenderit amet laboris incididunt enim cupidatat Lorem proident nostrud qui mollit.\r\n"
+  },
+  {
+    "_id": "615a83b4da4f027b279302b1",
+    "course_name": "Mini-МВA",
+    "isActive": false,
+    "fees": "$362.64",
+    "age": 20,
+    "enroled": 276,
+    "duration": 6,
+    "description": "Magna amet reprehenderit Lorem duis fugiat nisi. Nostrud aute dolore aute veniam sunt labore adipisicing fugiat. Adipisicing enim laboris eiusmod incididunt.\r\n"
+  },
+  {
+    "_id": "615a83b468aba71eb85550a0",
+    "course_name": "Language Studies",
+    "isActive": true,
+    "fees": "$366.75",
+    "age": 9,
+    "enroled": 377,
+    "duration": 7,
+    "description": "Quis ullamco consequat cillum eiusmod dolor id aliqua tempor reprehenderit et officia elit commodo. Minim id commodo magna cillum ad. Eu consequat sint sint amet veniam. Ad ut amet minim culpa sint. Id enim aliquip fugiat Lorem pariatur id eu cupidatat ex sunt irure tempor occaecat. Esse eiusmod et nulla sunt nulla id occaecat velit deserunt Lorem magna. Nisi non voluptate reprehenderit velit quis minim proident.\r\n"
+  },
+  {
+    "_id": "615a83b4d342644ac7f687cb",
+    "course_name": "Learn Second Language",
+    "isActive": true,
+    "fees": "$113.68",
+    "age": 19,
+    "enroled": 481,
+    "duration": 6,
+    "description": "Irure aliqua excepteur est officia incididunt nostrud voluptate eiusmod ut ex exercitation. Ut eiusmod id do anim in Lorem nulla aute adipisicing officia dolor quis sit. Commodo ut qui officia ad do.\r\n"
+  },
+  {
+    "_id": "615a83b437faf11c3cdacd24",
+    "course_name": "Basic Language Skills",
+    "isActive": true,
+    "fees": "$226.21",
+    "age": 24,
+    "enroled": 416,
+    "duration": 12,
+    "description": "Eu ad elit amet elit sunt excepteur ea duis reprehenderit esse aute voluptate aute. Ea amet id aute deserunt deserunt culpa voluptate nisi. Cupidatat consectetur dolor exercitation cillum minim ipsum qui nostrud exercitation incididunt veniam consequat est qui. Non fugiat excepteur culpa do officia. Excepteur sunt consectetur magna dolore officia ad officia anim dolore est consectetur occaecat irure ipsum. Cillum aute enim velit consectetur laborum. Mollit ea laboris ad qui nostrud.\r\n"
+  }
+]
